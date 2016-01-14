@@ -13,8 +13,7 @@ public class HelloWorldController extends AbstractController{
 
 		This is change 3
 		model.addObject("msg", "hello world");
-		
-		return model;
+
 	}
 
 }
